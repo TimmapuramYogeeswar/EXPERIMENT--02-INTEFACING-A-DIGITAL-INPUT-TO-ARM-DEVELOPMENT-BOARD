@@ -168,12 +168,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## layout of the circuit 
 ## LED OFF
 
-![offf](https://github.com/user-attachments/assets/cd401e58-f0f5-4b32-97a4-2337c3e86b4e)
+![WhatsApp Image 2025-09-15 at 09 03 09_099f4182](https://github.com/user-attachments/assets/b3fcb9d5-68b1-4c07-86bf-e3c6e1be9484)
+
 
 
 ## LED ON
 
-![on](https://github.com/user-attachments/assets/7d4c03f8-6d77-4de0-a1fa-bc9b2576f2a9)
+![WhatsApp Image 2025-09-15 at 09 03 09_7db763ce](https://github.com/user-attachments/assets/b1dbe5cd-a52f-49eb-98ec-7671ce3456ae)
+
 
 
 ## Result :
